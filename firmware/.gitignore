@@ -1,0 +1,6 @@
+.pio/
+.host-deps/
+.host-build/
+*.pem
+!include/*.pem.h.example
+include/ota_pubkey.pem.h
